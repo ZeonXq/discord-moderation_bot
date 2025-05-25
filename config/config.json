@@ -1,0 +1,9 @@
+{
+  "token": "BOT TOKEN",
+  "clientId": "CLIENT ID",
+  "guildId": "GUILD ID ",
+  "prefix": "/",
+  "mutedRoleId": "MUTED ROLE ID",
+  "logChannelId": "LOG CHANNEL ID",
+  "ownerId": "BOT OWNER ID"
+}
