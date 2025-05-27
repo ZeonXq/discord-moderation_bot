@@ -32,7 +32,7 @@ start.bat → Launches bot with style
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/zeonxq-bot.git
+git clone https://github.com/ZeonXq/zeonxq-bot.git
 cd zeonxq-bot
 
 Edit config/config.json and insert your bot token, IDs, etc.
